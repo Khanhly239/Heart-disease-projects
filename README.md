@@ -11,8 +11,9 @@ This repository contains two key implementations related to cardiovascular healt
 # 2. Heart Failure Prediction using Machine Learning
 
 - Predicting the risk of heart failure using traditional machine learning techniques.
-- Features include patient vitals, medical history, and lab results.
+- Exploratory Data Analysis
 - Models implemented: XGBoost, Logistic Regression, Support Vector Machine
+- Two approaches for predicting heart failure outcomes: a Statistical Model and a Domain Information Model
 - Performance evaluated using metrics such as accuracy, precision, recall, and ROC-AUC.
 # Features
 ✅ Preprocessing and augmentation of heartbeat sounds
